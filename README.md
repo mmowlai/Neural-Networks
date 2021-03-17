@@ -1,2 +1,3 @@
 # Neural-Networks
-Implementing a custom activation function.
+Implementing PELU activation function.\
+Analysing the differences of RELU and PELU results on MNIST dataset using Tensorflow.
